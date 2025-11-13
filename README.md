@@ -2,9 +2,9 @@
 
 ModerSlider
 
-![Image](https://github.com/user-attachments/assets/cf9dc747-fc78-4173-9068-07be60420d97))
+-[Demo Project](https://mohananoruztabar.github.io/modern-slider/)
 
--[Demo Project][(https://mohananoruztabar.github.io/modern-slider/)]
+![Image](https://github.com/user-attachments/assets/cf9dc747-fc78-4173-9068-07be60420d97)
 
 -🙋🏽‍♀️ Developed by Mohana Noruztabar
 
