@@ -2,7 +2,7 @@
 
 ModerSlider
 
-![Image](https://github.com/user-attachments/assets/fc44ba0c-c5ac-47f4-90d1-d0133e89aa37)
+![Image](https://github.com/user-attachments/assets/cf9dc747-fc78-4173-9068-07be60420d97))
 
 -[Demo Project][(https://mohananoruztabar.github.io/modern-slider/)]
 
